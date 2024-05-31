@@ -1,2 +1,2 @@
-# In  order for the script to work you must 'import re'
+# In  order for the functions to work you must 'import re'
 import re
