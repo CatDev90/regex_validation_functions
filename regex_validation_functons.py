@@ -1,7 +1,7 @@
 import re
 
 """
-Simple functions for validating phone numbers and email address.
+Simple functions for validating phone numbers and email addresses.
 The regular expressions can be changed to suit your reqiurements.
 """
 
